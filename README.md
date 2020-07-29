@@ -12,5 +12,5 @@
 ## 三、仓库规范
 
 1. 课程报告均采用markdown格式书写
-2. 文章存放路径：./content/id_name.md
-3. 图片存放路径：./images/name_number（e.g. zq_1.png zq_2.png...)
+2. 文章存放路径：./Content/id_name.md
+3. 图片存放路径：./Images/name_number（e.g. zq_1.png zq_2.png...)
